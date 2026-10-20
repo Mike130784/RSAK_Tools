@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-10-20",
+  "repository": "Mike130784/RSAK_Tools",
+  "policy": "practically-approved-only",
+  "products": [
+    {
+      "id": "rsak",
+      "documentation": "tools/rsak/README.md",
+      "publicReleases": []
+    },
+    {
+      "id": "vtm",
+      "documentation": "tools/vtm/README.md",
+      "publicReleases": []
+    },
+    {
+      "id": "dwg-perfect",
+      "documentation": "tools/dwg-perfect/README.md",
+      "publicReleases": []
+    },
+    {
+      "id": "ifc-exporter",
+      "documentation": "tools/ifc-exporter/README.md",
+      "publicReleases": []
+    },
+    {
+      "id": "warmteverlies-importer",
+      "documentation": "tools/warmteverlies-importer/README.md",
+      "publicReleases": []
+    },
+    {
+      "id": "git-desktop",
+      "documentation": "tools/git-desktop/README.md",
+      "publicReleases": []
+    },
+    {
+      "id": "sheet-exporter",
+      "documentation": "tools/sheet-exporter/README.md",
+      "publicReleases": []
+    },
+    {
+      "id": "prefab",
+      "documentation": "tools/prefab/README.md",
+      "publicReleases": []
+    }
+  ]
+}

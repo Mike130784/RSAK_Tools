@@ -1,0 +1,22 @@
+# Uitvoerbare distributies horen bij Releases, niet in de Git-historie.
+.staging/
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.pdb
+*.rvt
+*.rfa
+*.ifc
+*.log
+bin/
+obj/
+# Deze publieke repository is geen broncode-repository.
+*.cs
+*.csproj
+*.sln
+*.vb
+*.fs
+source/
+src/
