@@ -10,7 +10,7 @@ RSAK bundelt hulpmiddelen voor selectie, visualisatie, annotatie en modelkwalite
 
 ## Downloadstatus
 
-De werking van RSAK is door de maker bevestigd. Twee runtimepakketten van **2.18.0** zijn voorbereid: **Revit 2022** en **Revit 2025**. De DLLʼs zijn byte-identiek aan de aangetroffen actieve installaties. Registratie, veilig verwijderen en pakketintegriteit zijn afzonderlijk gecontroleerd. Er is nog geen publieke download. De precieze eerder praktisch geteste jaargang is niet meer bekend; er is tijdens het verpakken geen nieuwe Revit-modeltest uitgevoerd. Bestaande beperkingen van analyse- of ontwikkelfuncties blijven gelden.
+De werking van RSAK is door de maker bevestigd. Twee runtimepakketten van **2.18.0** zijn voorbereid: **Revit 2022** en **Revit 2025**. De DLLʼs zijn byte-identiek aan de aangetroffen actieve installaties. Registratie, veilig verwijderen en pakketintegriteit zijn afzonderlijk gecontroleerd. De download is beschikbaar via de release hieronder. De precieze eerder praktisch geteste jaargang is niet meer bekend; er is tijdens het verpakken geen nieuwe Revit-modeltest uitgevoerd. Bestaande beperkingen van analyse- of ontwikkelfuncties blijven gelden.
 
 ## Voor je begint
 
@@ -29,3 +29,10 @@ Elk runtimepakket bevat INSTALLEREN.cmd en VERWIJDEREN.cmd voor zijn exacte Revi
 ## Grenzen
 
 De toolbox bevat functies met verschillende ontwikkel- en validatiestatussen. Een geslaagde selectie-, analyse- of visualisatietest bewijst niet automatisch iedere modelwijzigende route. De openbare release notes moeten die scope benoemen.
+
+## Download dit pakket
+
+[Release en instructies](https://github.com/Mike130784/RSAK_Tools/releases/tag/rsak-toolbox-2.18.0)
+
+- [RSAK-Toolbox-2.18.0-Revit2022-portable.zip](https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-toolbox-2.18.0/RSAK-Toolbox-2.18.0-Revit2022-portable.zip) · [SHA-256](https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-toolbox-2.18.0/RSAK-Toolbox-2.18.0-Revit2022-portable.zip.sha256)
+- [RSAK-Toolbox-2.18.0-Revit2025-portable.zip](https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-toolbox-2.18.0/RSAK-Toolbox-2.18.0-Revit2025-portable.zip) · [SHA-256](https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-toolbox-2.18.0/RSAK-Toolbox-2.18.0-Revit2025-portable.zip.sha256)

@@ -10,7 +10,7 @@ De importer leest voorbereide JSON-brongegevens, laat de koppeling met Revit zie
 
 ## Downloadstatus
 
-Een runtimepakket **0.3.0 voor Revit 2024 en 2025** is voorbereid met ongewijzigde DLLʼs uit het bestaande pakket. De maker heeft de productwerking bevestigd, maar weet de precieze eerder geteste jaargang niet meer. De nieuwe verpakking is afzonderlijk op registratie, herstel en data gecontroleerd. Een nieuwe Revit-modeltest per jaargang is NOT RUN. Er is nog geen openbare download.
+Een runtimepakket **0.3.0 voor Revit 2024 en 2025** is voorbereid met ongewijzigde DLLʼs uit het bestaande pakket. De maker heeft de productwerking bevestigd, maar weet de precieze eerder geteste jaargang niet meer. De nieuwe verpakking is afzonderlijk op registratie, herstel en data gecontroleerd. Een nieuwe Revit-modeltest per jaargang is NOT RUN. De download is beschikbaar via de release hieronder.
 
 **De standaardgegevens zijn vervangen door drie volledig fictieve oefenruimtes (DEMO001).** Er worden geen bestaande projectgegevens of modelkoppelingen meegeleverd. Beide product-DLLʼs hebben dit nieuwe voorbeeld via hun eigen parser gevalideerd. Gebruik de voorbeeldwaarden nooit op een echt project; laad eerst je eigen gecontroleerde JSON via de keuze voor andere brongegevens.
 
@@ -33,3 +33,9 @@ Controleer bij Vabi-brongegevens de bedoelde warmteverlieswaarde, waaronder `Phi
 Een bronbestand en model moeten inhoudelijk bij elkaar horen. Een succesvolle eerdere koppeling mag niet automatisch worden hergebruikt voor een andere woning of een ander model. Nieuwe nummerings- en matchingmogelijkheden uit de roadmap zijn geen garantie dat die al in de publieke versie zitten.
 
 Gebruik alleen een pakket dat jouw Revitjaar noemt. Zie ook de [installatiehulp](../../docs/INSTALLEREN.md).
+
+## Download dit pakket
+
+[Release en instructies](https://github.com/Mike130784/RSAK_Tools/releases/tag/warmteverlies-0.3.0-revit2024-2025)
+
+- [RSAK-Warmteverlies-0.3.0-Revit2024-2025-portable.zip](https://github.com/Mike130784/RSAK_Tools/releases/download/warmteverlies-0.3.0-revit2024-2025/RSAK-Warmteverlies-0.3.0-Revit2024-2025-portable.zip) · [SHA-256](https://github.com/Mike130784/RSAK_Tools/releases/download/warmteverlies-0.3.0-revit2024-2025/RSAK-Warmteverlies-0.3.0-Revit2024-2025-portable.zip.sha256)

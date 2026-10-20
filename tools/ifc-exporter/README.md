@@ -10,7 +10,7 @@ De exporter bereidt een modelsnapshot voor en gebruikt een afzonderlijke Revit-w
 
 ## Downloadstatus
 
-Voor Revit 2025 is de exact praktisch goedgekeurde build **D10G-C P3 HOME PROVEN, 1 oktober 2026** teruggevonden. De DLL is geverifieerd tegen de vastgelegde SHA-256. Een schoon runtimepakket zonder ontwikkelbron is samengesteld en de pakketbestanden zijn gecontroleerd; er is nog geen publieke download.
+Voor Revit 2025 is de exact praktisch goedgekeurde build **D10G-C P3 HOME PROVEN, 1 oktober 2026** teruggevonden. De DLL is geverifieerd tegen de vastgelegde SHA-256. Een schoon runtimepakket zonder ontwikkelbron is samengesteld en de pakketbestanden zijn gecontroleerd; de download is beschikbaar via de release hieronder.
 
 Die goedkeuring betreft de vastgelegde Revit 2025-route. Ze is geen algemene vrijgave van nieuwe native-cloudkandidaten of een andere Revitjaargang.
 
@@ -33,3 +33,9 @@ Gebruik de eigen status- en herstelbediening. Een stop is geen bewijs dat al het
 ## Grenzen van de vrijgave
 
 De exacte 2025-build is praktisch getest op de vastgelegde HOME-routes. De nieuwe openbare verpakking krijgt afzonderlijke pakketcontroles; dat is geen extra Revit-praktijktest. Een losse IFC-conversie zonder Revit is geen functie van deze tool.
+
+## Download dit pakket
+
+[Release en instructies](https://github.com/Mike130784/RSAK_Tools/releases/tag/ifc-revit2025-d10g-c-p3-2026-10-01)
+
+- [RSAK-IFC-Revit2025-D10G-C-P3-HOME-PROVEN-portable.zip](https://github.com/Mike130784/RSAK_Tools/releases/download/ifc-revit2025-d10g-c-p3-2026-10-01/RSAK-IFC-Revit2025-D10G-C-P3-HOME-PROVEN-portable.zip) · [SHA-256](https://github.com/Mike130784/RSAK_Tools/releases/download/ifc-revit2025-d10g-c-p3-2026-10-01/RSAK-IFC-Revit2025-D10G-C-P3-HOME-PROVEN-portable.zip.sha256)

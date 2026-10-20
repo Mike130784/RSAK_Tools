@@ -15,7 +15,7 @@ Vergelijken en Health Check zijn read-only. Importeren kan het model wel wijzige
 
 ## Downloadstatus
 
-VTM is door de maker als werkend en verder ontwikkeld bevestigd. Een runtimepakket **1.2.1 voor Revit 2022** is voorbereid. De DLL is byte-identiek aan de aangetroffen actieve installatie en de lokale Release-build. Registratie, veilig verwijderen en pakketintegriteit zijn gecontroleerd. Er is nog geen publieke download. Een nieuwe Revit-modeltest is tijdens deze verpakking NOT RUN; de precieze eerder geteste jaargang is niet meer bekend. Er is geen uitvoerbaar pakket voor andere jaargangen aangetroffen.
+VTM is door de maker als werkend en verder ontwikkeld bevestigd. Een runtimepakket **1.2.1 voor Revit 2022** is voorbereid. De DLL is byte-identiek aan de aangetroffen actieve installatie en de lokale Release-build. Registratie, veilig verwijderen en pakketintegriteit zijn gecontroleerd. De download is beschikbaar via de release hieronder. Een nieuwe Revit-modeltest is tijdens deze verpakking NOT RUN; de precieze eerder geteste jaargang is niet meer bekend. Er is geen uitvoerbaar pakket voor andere jaargangen aangetroffen.
 
 ## Eerste gebruik
 
@@ -30,3 +30,9 @@ Pak het volledige pakket uit op een vaste plek en sluit Revit. Gebruik INSTALLER
 ## Grenzen
 
 Een vergelijking of Health Check past niets automatisch aan. Een template uit een andere Revitjaargang kan instellingen bevatten die de doelversie niet kent; beoordeel de meldingen bij importeren.
+
+## Download dit pakket
+
+[Release en instructies](https://github.com/Mike130784/RSAK_Tools/releases/tag/vtm-1.2.1-revit2022)
+
+- [VTM-1.2.1-Revit2022-portable.zip](https://github.com/Mike130784/RSAK_Tools/releases/download/vtm-1.2.1-revit2022/VTM-1.2.1-Revit2022-portable.zip) · [SHA-256](https://github.com/Mike130784/RSAK_Tools/releases/download/vtm-1.2.1-revit2022/VTM-1.2.1-Revit2022-portable.zip.sha256)

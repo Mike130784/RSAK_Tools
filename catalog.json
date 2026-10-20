@@ -7,12 +7,60 @@
     {
       "id": "rsak",
       "documentation": "tools/rsak/README.md",
-      "publicReleases": []
+      "publicReleases": [
+        {
+          "tag": "rsak-toolbox-2.18.0",
+          "url": "https://github.com/Mike130784/RSAK_Tools/releases/tag/rsak-toolbox-2.18.0",
+          "revit": [
+            "2022",
+            "2025"
+          ],
+          "signing": "NotSigned",
+          "practicalEvidence": "Maker bevestigt productwerking; eerdere exacte jaargangen niet volledig vastgelegd. Zie release notes.",
+          "packagingNativeRevitTest": "NOT RUN",
+          "assets": [
+            {
+              "name": "RSAK-Toolbox-2.18.0-Revit2022-portable.zip",
+              "bytes": 303137,
+              "sha256": "3b0e97b6153181239e380928ea67fbd04848c08afe998740c5d7fd32812c2c9b",
+              "url": "https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-toolbox-2.18.0/RSAK-Toolbox-2.18.0-Revit2022-portable.zip",
+              "checksumUrl": "https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-toolbox-2.18.0/RSAK-Toolbox-2.18.0-Revit2022-portable.zip.sha256"
+            },
+            {
+              "name": "RSAK-Toolbox-2.18.0-Revit2025-portable.zip",
+              "bytes": 300510,
+              "sha256": "95ca7ba88329a579a43bbcd21bb057042c2284583c3ab50c131eb2ccf86edbdc",
+              "url": "https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-toolbox-2.18.0/RSAK-Toolbox-2.18.0-Revit2025-portable.zip",
+              "checksumUrl": "https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-toolbox-2.18.0/RSAK-Toolbox-2.18.0-Revit2025-portable.zip.sha256"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vtm",
       "documentation": "tools/vtm/README.md",
-      "publicReleases": []
+      "publicReleases": [
+        {
+          "tag": "vtm-1.2.1-revit2022",
+          "url": "https://github.com/Mike130784/RSAK_Tools/releases/tag/vtm-1.2.1-revit2022",
+          "revit": [
+            "2022"
+          ],
+          "signing": "NotSigned",
+          "practicalEvidence": "Maker bevestigt productwerking; eerdere exacte jaargangen niet volledig vastgelegd. Zie release notes.",
+          "packagingNativeRevitTest": "NOT RUN",
+          "assets": [
+            {
+              "name": "VTM-1.2.1-Revit2022-portable.zip",
+              "bytes": 50729,
+              "sha256": "21c6435e47cb062738b959a931e3ab5db5afa584b070be2439e9ef261d3c2ae8",
+              "url": "https://github.com/Mike130784/RSAK_Tools/releases/download/vtm-1.2.1-revit2022/VTM-1.2.1-Revit2022-portable.zip",
+              "checksumUrl": "https://github.com/Mike130784/RSAK_Tools/releases/download/vtm-1.2.1-revit2022/VTM-1.2.1-Revit2022-portable.zip.sha256"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "dwg-perfect",
@@ -22,12 +70,53 @@
     {
       "id": "ifc-exporter",
       "documentation": "tools/ifc-exporter/README.md",
-      "publicReleases": []
+      "publicReleases": [
+        {
+          "tag": "ifc-revit2025-d10g-c-p3-2026-10-01",
+          "url": "https://github.com/Mike130784/RSAK_Tools/releases/tag/ifc-revit2025-d10g-c-p3-2026-10-01",
+          "revit": [
+            "2025"
+          ],
+          "signing": "NotSigned",
+          "practicalEvidence": "Exacte DLL uit D10G-C P3 HOME PROVEN, Revit 2025, 1 oktober 2026; zie release notes.",
+          "packagingNativeRevitTest": "NOT RUN",
+          "assets": [
+            {
+              "name": "RSAK-IFC-Revit2025-D10G-C-P3-HOME-PROVEN-portable.zip",
+              "bytes": 215636,
+              "sha256": "c454a225377125c8034613b6f5240a31431772dbe785f58989dcbd349062e7e0",
+              "url": "https://github.com/Mike130784/RSAK_Tools/releases/download/ifc-revit2025-d10g-c-p3-2026-10-01/RSAK-IFC-Revit2025-D10G-C-P3-HOME-PROVEN-portable.zip",
+              "checksumUrl": "https://github.com/Mike130784/RSAK_Tools/releases/download/ifc-revit2025-d10g-c-p3-2026-10-01/RSAK-IFC-Revit2025-D10G-C-P3-HOME-PROVEN-portable.zip.sha256"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "warmteverlies-importer",
       "documentation": "tools/warmteverlies-importer/README.md",
-      "publicReleases": []
+      "publicReleases": [
+        {
+          "tag": "warmteverlies-0.3.0-revit2024-2025",
+          "url": "https://github.com/Mike130784/RSAK_Tools/releases/tag/warmteverlies-0.3.0-revit2024-2025",
+          "revit": [
+            "2024",
+            "2025"
+          ],
+          "signing": "NotSigned",
+          "practicalEvidence": "Maker bevestigt productwerking; eerdere exacte jaargangen niet volledig vastgelegd. Zie release notes.",
+          "packagingNativeRevitTest": "NOT RUN",
+          "assets": [
+            {
+              "name": "RSAK-Warmteverlies-0.3.0-Revit2024-2025-portable.zip",
+              "bytes": 94791,
+              "sha256": "3fd32e7442d6565e68a247c2857fc6026c6847f081e016a180c348f548196ba3",
+              "url": "https://github.com/Mike130784/RSAK_Tools/releases/download/warmteverlies-0.3.0-revit2024-2025/RSAK-Warmteverlies-0.3.0-Revit2024-2025-portable.zip",
+              "checksumUrl": "https://github.com/Mike130784/RSAK_Tools/releases/download/warmteverlies-0.3.0-revit2024-2025/RSAK-Warmteverlies-0.3.0-Revit2024-2025-portable.zip.sha256"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "git-desktop",
