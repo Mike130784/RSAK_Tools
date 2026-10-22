@@ -10,7 +10,11 @@ Bekijk je wijzigingen en staged inhoud, lees de commitgeschiedenis, beheer branc
 
 ## Downloadstatus
 
-De huidige herstelkandidaat is **1.0 RC2**. Browseraanmelding, afmelden, opnieuw aanmelden, PR's laden/openen en Fetch/analyseren zijn door de gebruiker praktisch bevestigd. De tweede-pc- en definitieve releasecontrole staan nog apart. Volgens het beleid van deze catalogus wordt de kandidaat nog niet als definitieve publieke download aangeboden.
+**V1.0.0 RC2 (1.0.0-rc.2)** is beschikbaar als openbare portable voor Windows x64. De bestaande productbinaries zijn ongewijzigd. Browseraanmelding, afmelden, opnieuw aanmelden, PR's laden/openen en Fetch/analyseren zijn door de gebruiker praktisch bevestigd. Workstation/tweede-pc-validatie blijft NOT RUN; de download is als Release Candidate gemarkeerd.
+
+[Release en instructies](https://github.com/Mike130784/RSAK_Tools/releases/tag/rsak-git-desktop-v1.0.0-rc.2) · [Portable ZIP](https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-git-desktop-v1.0.0-rc.2/RSAK-Git-Desktop-V1.0.0-rc.2-win-x64-portable.zip) · [SHA-256](https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-git-desktop-v1.0.0-rc.2/RSAK-Git-Desktop-V1.0.0-rc.2-win-x64-portable.zip.sha256)
+
+Het pakket is **ongetekend (NotSigned)** en bevat runtimebestanden, README en privacy-informatie. Geen broncode, debug-symbolen of interne checkpoints.
 
 ## Vereisten
 
@@ -31,3 +35,11 @@ Bij GitHub opent Aanmelden je browser via Git Credential Manager. Voltooi daar d
 Stage kiest wat in je commit komt. Commit bewaart die selectie lokaal. Push verstuurt de bereikbare commits naar de gekozen externe branch. Fetch haalt alleen externe informatie op en voegt je werk niet samen.
 
 De app voert geen force push, reset-hard, clean of stille merge uit. Bij divergentie kies je na analyse zelf een bewaakte rebase- of mergeflow. Stoppen is geen automatische rollback.
+
+## Updatecontrole van deze RC2
+
+De ingebouwde updatecontrole gebruikt nog de oorspronkelijke private bronrepository en negeert prereleases. Gebruik voor deze ongewijzigde RC2 de openbare downloadlink hierboven. Er is geen automatische installatie.
+
+## Validatie
+
+LOCAL PASS volgens het bestaande RC2-checkpoint: build zonder fouten/waarschuwingen, 78 gerichte controles, 11 echte WPF/Git-controles en 29 tooltips. De ongewijzigde suite is niet opnieuw uitgevoerd. Voor de openbare verpakking zijn manifesthashes, product-/bestandsversie, x64-architectuur, runtimeconfiguratie en ZIP-integriteit opnieuw gecontroleerd. USER PASS en de nog niet uitgevoerde Workstation-test blijven afzonderlijk vermeld.

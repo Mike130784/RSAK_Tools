@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-20",
+  "updated": "2026-10-22",
   "repository": "Mike130784/RSAK_Tools",
   "policy": "practically-approved-only",
   "products": [
@@ -121,7 +121,28 @@
     {
       "id": "git-desktop",
       "documentation": "tools/git-desktop/README.md",
-      "publicReleases": []
+      "publicReleases": [
+        {
+          "tag": "rsak-git-desktop-v1.0.0-rc.2",
+          "version": "1.0.0-rc.2",
+          "url": "https://github.com/Mike130784/RSAK_Tools/releases/tag/rsak-git-desktop-v1.0.0-rc.2",
+          "prerelease": true,
+          "platform": "win-x64",
+          "runtime": ".NET 8 Desktop Runtime x64",
+          "signing": "NotSigned",
+          "practicalEvidence": "USER PASS: RC2 browseraanmelding, afmelden, opnieuw aanmelden, PR-weergave en Fetch/analyseren.",
+          "workstation": "NOT RUN",
+          "assets": [
+            {
+              "name": "RSAK-Git-Desktop-V1.0.0-rc.2-win-x64-portable.zip",
+              "bytes": 252200,
+              "sha256": "c915d5ac4cc271cd89bb7468ca3d8cb7c49b29f94244f0033e99751479245d76",
+              "url": "https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-git-desktop-v1.0.0-rc.2/RSAK-Git-Desktop-V1.0.0-rc.2-win-x64-portable.zip",
+              "checksumUrl": "https://github.com/Mike130784/RSAK_Tools/releases/download/rsak-git-desktop-v1.0.0-rc.2/RSAK-Git-Desktop-V1.0.0-rc.2-win-x64-portable.zip.sha256"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "sheet-exporter",
